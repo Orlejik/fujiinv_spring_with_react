@@ -1,0 +1,18 @@
+[{
+  "firstname":"Artiom",
+  "lastname":"Oriol",
+  "login":"artiom",
+  "email":"artiom.oriol@eu.fujikura.com",
+  "isActive":"",
+  "activity":false,
+  "password":"1213",
+  "secret":"1213",
+  "roles":"ROLE_ADMIN",
+  "permissions":"IT",
+  "creationDate":"2023-06-01 13:41:24",
+  "departmentName":null,
+  "plant":"Chisinau",
+  "id":1,
+  "roleList":["ROLE_ADMIN"],
+  "permissionsList":["ROLE_ADMIN"]}
+]
